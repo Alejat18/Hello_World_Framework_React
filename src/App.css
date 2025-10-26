@@ -1,0 +1,13 @@
+.Container{
+    width: 400px;
+    background-color: lightblue;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    border: 1px darkblue dashed;
+
+}
+.ContainerTitle{
+    color: red;
+    font-size: 30px;
+}
